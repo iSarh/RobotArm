@@ -37,6 +37,8 @@ source ~/catkin_ws/devel/setup.bash
 roslaunch robot_arm_pkg check_motors.launch
 ```
 
+<img src="Rviz.png" width="800" >
+
 
 
 
